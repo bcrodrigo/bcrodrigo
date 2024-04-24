@@ -44,13 +44,7 @@ Using Python I wrote scripts to generate different kinds of particle shapes: sph
 
 Simulation outputs were post-processed with custom Python scripts and measurable quantities were calculated. In particular, the Mueller Matrix (a 4-by-4 real valued matrix) relates the incident and scattered polarization states, and allows you to validate if the simulation outputs are correct by looking at the number of non-zero elements as well as its symmetries. Additionally, the elements of the Mueller matrix can be measured experimentally.
 
-Below you can see an example of the calculated Mueller matrix elements for a spherical particle for multiple incident wavelengths (from 0.4 to 2.0 micrometers).
-
-<img src="/images/MM_sphere_r8_parsed_averaged.png" alt="mm_avg" width="500" height="auto">
-
-
-
-## Connect with me:
+## Connect with me
 - [Linkedin](https://linkedin.com/in/rodrigobc)
 
 ## Languages and Tools:
