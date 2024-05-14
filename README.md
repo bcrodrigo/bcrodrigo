@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### [Image Classification of Forest Fires](https://github.com/bcrodrigo/capstone_project)
 
-Using PyTorch, I trained state-of-the-art Computer Vision Models (VGG19 and ResNet18) and performed transfer learning to accurately classify images of Forest Fires.
+Using PyTorch, I trained state-of-the-art Computer Vision Models (VGG19 and ResNet18) and performed transfer learning to accurately classify images of Forest Fires. I was able to reproduce the classification metrics reported in the literature by the dataset authors.
 
 ## Previous Projects
 
@@ -32,11 +32,11 @@ Using numerical simulations I calculated the optical properties of randomly orie
 
 #### [Discrete Dipole Approximation for Light Scattering](https://github.com/bcrodrigo/OpenDDA_MPI_modifications) 
 
-The Discrete-Dipole Approximation (DDA) is a numerical method that represents an arbitrarily-shaped particle as electric dipoles on a cubic lattice. There are many implementations, but the one I used was [OpenDDA](https://github.com/drjmcdonald/OpenDDA). In particular, I made some modifications to use the parallelized version using the Message-Passing Interface (MPI) for distributed memory clusters. You can see all the modifications I did in the [following repository](https://github.com/bcrodrigo/OpenDDA_MPI_modifications) in my Github.
+The Discrete-Dipole Approximation (DDA) is a numerical method that represents an arbitrarily-shaped particle as electric dipoles on a cubic lattice. There are many implementations, but the one I used was [OpenDDA](https://github.com/drjmcdonald/OpenDDA). In particular, I made some modifications to use the parallelized version using the Message-Passing Interface (MPI) for distributed memory clusters. You can see all the modifications I did in the [following repository](https://github.com/bcrodrigo/OpenDDA_MPI_modifications).
 
 #### [Generating Dipole Locations for Different Particle Shapes](https://github.com/bcrodrigo/dipole_locations/tree/main)
 
-Using Python I wrote scripts to generate different kinds of particle shapes: sphere, cylinder, helices, in order to generate input targets for OpenDDA. You can see the code in my Github [dipole_locations](https://github.com/bcrodrigo/dipole_locations/tree/main) repository.
+Using Python I wrote scripts to generate different kinds of particle shapes: sphere, cylinder, helices, in order to generate input targets for OpenDDA. You can see the code in the [dipole_locations](https://github.com/bcrodrigo/dipole_locations/tree/main) repository.
 
 <img src="/images/sphere_preview.png" alt="sphere_preview" width="150" height="auto"> <img src="/images/cylinderpreview.jpg" alt="cylinder_preview" width="150" height="auto"> <img src="/images/helixpreviewLH.jpg" alt="helix_preview" width="150" height="auto"> 
 
