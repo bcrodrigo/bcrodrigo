@@ -22,6 +22,12 @@ Here are some ideas to get you started:
 
 Using PyTorch, I trained state-of-the-art Computer Vision Models (VGG19 and ResNet18) and performed transfer learning to accurately classify images of Forest Fires. I was able to reproduce the classification metrics reported in the literature by the dataset authors.
 
+**Tools:** PyTorch, Pandas, Matplotlib,  Streamlit
+### [RAG using Ollama](https://github.com/bcrodrigo/rag_with_ollama)
+
+Implemented a command line program to create and update a vector database locally and query it using a Large Language Model through Retrieval Augmented Generation.
+
+**Tools:** Python, Ollama, Langchain, Chroma
 ## Previous Projects
 
 ### Light Scattering from Randomly-Oriented Particles
