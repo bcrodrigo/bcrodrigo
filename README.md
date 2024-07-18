@@ -28,6 +28,7 @@ Using PyTorch, I trained state-of-the-art Computer Vision Models (VGG19 and ResN
 Implemented a command line program to create and update a vector database locally and query it using a Large Language Model through Retrieval Augmented Generation.
 
 **Tools:** Python, Ollama, Langchain, Chroma
+
 ## Previous Projects
 
 ### Light Scattering from Randomly-Oriented Particles
@@ -49,6 +50,8 @@ Using Python I wrote scripts to generate different kinds of particle shapes: sph
 #### [Simulation Analysis](https://github.com/bcrodrigo/OpenDDA_output_parsing)
 
 Simulation outputs were post-processed with custom Python scripts and measurable quantities were calculated. In particular, the Mueller Matrix (a 4-by-4 real valued matrix) relates the incident and scattered polarization states, and allows you to validate if the simulation outputs are correct by looking at the number of non-zero elements as well as its symmetries. Additionally, the elements of the Mueller matrix can be measured experimentally.
+
+**Tools:** C, OpenMPI, Bash, SSH, Python, NumPy, Pandas, Matplotlib
 
 ## Connect with me
 - [Linkedin](https://linkedin.com/in/rodrigobc)
