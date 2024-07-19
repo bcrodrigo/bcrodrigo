@@ -1,17 +1,3 @@
-<!--
-**bcrodrigo/bcrodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <h1 align="center">Hi, I'm Rodrigo</h1>
 <h3 align="center">Data Scientist based in Vancouver, Canada</h3>
@@ -50,7 +36,7 @@ Using Python I wrote scripts to generate different kinds of particle shapes: sph
 
 #### [Simulation Analysis](https://github.com/bcrodrigo/OpenDDA_output_parsing)
 
-Simulation outputs were post-processed with custom Python scripts and measurable quantities were calculated. In particular, the Mueller Matrix (a 4-by-4 real valued matrix) relates the incident and scattered polarization states, and allows you to validate if the simulation outputs are correct by looking at the number of non-zero elements as well as its symmetries. Additionally, the elements of the Mueller matrix can be measured experimentally.
+Simulation outputs were post-processed with custom Python scripts and measurable quantities were calculated. In particular, the Mueller Matrix (a 4-by-4 real valued matrix) relates the incident and scattered polarization states, and allows you to validate if the simulation outputs are correct by looking at the number of non-zero elements as well as its symmetries. Additionally, the elements of the Mueller matrix can be measured experimentally. For more details, see the [following repository](https://github.com/bcrodrigo/OpenDDA_output_parsing).
 
 **Tools:** C, OpenMPI, Bash, SSH, Python, NumPy, Pandas, Matplotlib
 
