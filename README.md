@@ -18,16 +18,17 @@ Here are some ideas to get you started:
 
 ## Current Projects
 
-### [Image Classification of Forest Fires](https://github.com/bcrodrigo/capstone_project)
+### Image Classification of Forest Fires
 
-Using PyTorch, I trained state-of-the-art Computer Vision Models (VGG19 and ResNet18) and performed transfer learning to accurately classify images of Forest Fires. I was able to reproduce the classification metrics reported in the literature by the dataset authors.
+Using PyTorch, I trained state-of-the-art Computer Vision Models (VGG19 and ResNet18) for image classification of Forest Fires. I was able to reproduce the benchmark accuracy metrics as reported in the scientific literature. See more details [here](https://github.com/bcrodrigo/capstone_project).
 
-**Tools:** PyTorch, Pandas, Matplotlib,  Streamlit
-### [RAG using Ollama](https://github.com/bcrodrigo/rag_with_ollama)
+**Tools:** PyTorch, Pandas, Matplotlib, Streamlit
 
-Implemented a command line program to create and update a vector database locally and query it using a Large Language Model through Retrieval Augmented Generation.
+### RAG using Ollama
 
-**Tools:** Python, Ollama, Langchain, Chroma
+Developed a command line tool for building and querying vector databases on device, using Retrieval Augmented Generation (RAG) techniques. You can see the code [here](https://github.com/bcrodrigo/rag_with_ollama).
+
+**Tools:** Python, Ollama, LangChain, Chroma
 
 ## Previous Projects
 
