@@ -4,13 +4,19 @@
 
 ## Current Projects
 
-### Image Classification of Forest Fires
+### [Image Classification of Forest Fires with Deep Neural Networks](https://github.com/bcrodrigo/capstone_project)
 
 Using PyTorch, I trained state-of-the-art Computer Vision Models (VGG19 and ResNet18) for image classification of Forest Fires. I was able to reproduce the benchmark accuracy metrics as reported in the scientific literature. See more details [here](https://github.com/bcrodrigo/capstone_project).
 
+Follow [this link](https://image-classification-forest-fires.streamlit.app/) to see a deployed Streamlit app showcasing the predictions of the models, on images from different datasets. Note it may take a few seconds to wake up the server.
+
+![image2](https://github.com/bcrodrigo/capstone_project/blob/main/model_demo/streamlit_app_demo.gif)
+
 **Tools:** PyTorch, Pandas, Matplotlib, Streamlit
 
-### RAG using Ollama
+<br>
+
+### [RAG using Ollama](https://github.com/bcrodrigo/rag_with_ollama)
 
 Developed a command line tool for building and querying vector databases on device, using Retrieval Augmented Generation (RAG) techniques. You can see the code [here](https://github.com/bcrodrigo/rag_with_ollama).
 
