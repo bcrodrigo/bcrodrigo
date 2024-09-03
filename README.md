@@ -10,7 +10,9 @@ Using PyTorch, I trained state-of-the-art Computer Vision Models (VGG19 and ResN
 
 Follow [this link](https://image-classification-forest-fires.streamlit.app/) to see a deployed Streamlit app showcasing the predictions of the models, on images from different datasets. Note it may take a few seconds to wake up the server.
 
-![image2](https://github.com/bcrodrigo/capstone_project/blob/main/model_demo/streamlit_app_demo.gif)
+
+<img src="https://github.com/bcrodrigo/capstone_project/blob/main/model_demo/streamlit_app_demo.gif" width="600">
+
 
 **Tools:** PyTorch, Pandas, Matplotlib, Streamlit
 
@@ -21,6 +23,8 @@ Follow [this link](https://image-classification-forest-fires.streamlit.app/) to 
 Developed a command line tool for building and querying vector databases on device, using Retrieval Augmented Generation (RAG) techniques. You can see the code [here](https://github.com/bcrodrigo/rag_with_ollama).
 
 **Tools:** Python, Ollama, LangChain, Chroma
+
+<br>
 
 ## Previous Projects
 
