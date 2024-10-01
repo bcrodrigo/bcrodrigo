@@ -18,6 +18,14 @@ Follow [this link](https://image-classification-forest-fires.streamlit.app/) to 
 
 <br>
 
+### [Sentiment Analysis of Amazon Reviews](https://github.com/bcrodrigo/nlp_reviews)
+
+Performed Sentiment Analysis on an Amazon Reviews dataset, to compare accuracy between simple models (bag-of-words) against pre-trained transformer-based models. You can see the code [here](https://github.com/bcrodrigo/nlp_reviews).
+
+**Tools:** Python, SpaCy, Pandas, Scikit-Learn
+
+<br>
+
 ### [RAG using Ollama](https://github.com/bcrodrigo/rag_with_ollama)
 
 Developed a command line tool for building and querying vector databases on device, using Retrieval Augmented Generation (RAG) techniques. You can see the code [here](https://github.com/bcrodrigo/rag_with_ollama).
